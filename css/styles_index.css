@@ -1,0 +1,18 @@
+/**//**//**//**//**//**//*               COMMON SETTINGS             *//**//**//**//**//**//**/
+/*          Fonts          */
+@font-face {
+    font-family: 'papyrusregular';
+    src: url(/*          FIX THESE 4 PATHS          */'https://elstest.github.io/mx/fonts/Papyrus_local_set/papyrus_local.woff2') format('woff2'),
+    	 url('mx/fonts/Papyrus_local_set/papyrus_local.woff2') format('woff2'),
+         url('https://elstest.github.io/mx/fonts/Papyrus_local_set/papyrus_local.woff') format('woff'),
+		 url('mx/fonts/Papyrus_local_set/papyrus_local.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*          Webkit          */
+body {
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+}
